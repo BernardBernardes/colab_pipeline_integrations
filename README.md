@@ -39,7 +39,7 @@ The notebook will install everything needed on its own. No local setup required.
 - [`py_dss_interface`](https://github.com/PauloRadatz/py_dss_interface)  
 - [OpenDSS Examples by EPRI](https://github.com/BernardBernardes/EPRI-OpenDSS-Examples)
 
-
+---
 # 🔌 BDGD ANEEL to OpenDSS Convertion with bdgd2opnedss on Google Colab (bdgd2opendss_colab_integration.ipynb)
 
 ### ✅ Requirements
